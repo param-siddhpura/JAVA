@@ -116,5 +116,6 @@ public class pt4 {
     }
         System.out.println();
 }
+ sj.close();
   }
 }

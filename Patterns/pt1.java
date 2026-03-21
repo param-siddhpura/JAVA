@@ -100,6 +100,6 @@ System.out.println("\n*************************************   6  ***************
       }
       System.out.println();
     }
-     
+     s.close();
   }
 }

@@ -1,4 +1,4 @@
-// Instance Variabl and Instance Method
+// Instance Variable and Instance Method
 import java.util.*;                                              // Importing Package
 
 class Student1{                                                   // Class

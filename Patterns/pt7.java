@@ -49,6 +49,6 @@ public class pt7 {
       }
       System.out.println();
     }
-
+ s.close();
   }
 }

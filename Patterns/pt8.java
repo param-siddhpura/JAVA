@@ -78,6 +78,6 @@ public class pt8 {
       }
       System.out.println();
     }
-
+ s.close();
   }
 }

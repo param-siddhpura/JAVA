@@ -21,5 +21,6 @@ public class pt6 {
        }
        System.out.println();
     }
+     s.close();
   }
 }

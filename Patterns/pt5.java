@@ -16,5 +16,6 @@
       }
       System.out.println();
     }
+     s.close();
   }
  }

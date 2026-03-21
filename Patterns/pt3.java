@@ -125,5 +125,6 @@ public class pt3 {
       
       System.out.println(" ");
     }
+     s.close();
   }
 }
