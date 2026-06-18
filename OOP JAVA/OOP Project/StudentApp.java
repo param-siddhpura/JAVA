@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 /**
  * StudentApp — Main driver class for the Student Management System.
- *
+ * This class provides a console-based menu for users to interact with the system,
+ * allowing them to add, view, and update student records.
  * Demonstrates:
  *  - ArrayList for storing multiple Student objects
  *  - Menu-driven console interaction via Scanner
